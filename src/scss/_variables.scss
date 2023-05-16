@@ -1,0 +1,14 @@
+:root {
+  --dml-black: #151515;
+  --dml-white: #ffffff;
+  --dml-blue: #0066ff;
+
+  --accent-primary: var(--dml-blue);
+  --background-primary: var(--dml-white);
+  --text-primary: var(--dml-black);
+
+  --font-family-primary: Inter, sans-serif;
+
+  --max-width: 1200px;
+  --gap: 16px;
+}
